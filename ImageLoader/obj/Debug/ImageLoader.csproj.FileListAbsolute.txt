@@ -1,0 +1,11 @@
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\bin\Debug\ImageLoader.exe.config
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\bin\Debug\ImageLoader.exe
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\bin\Debug\ImageLoader.pdb
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\obj\Debug\ImageLoader.Form1.resources
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\obj\Debug\ImageLoader.Properties.Resources.resources
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\obj\Debug\ImageLoader.csproj.GenerateResource.cache
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\obj\Debug\ImageLoader.csproj.CoreCompileInputs.cache
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\obj\Debug\ImageLoader.exe
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\obj\Debug\ImageLoader.pdb
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\obj\Debug\ImageLoader.Form2.resources
+C:\Users\elyas\source\repos\ImageLoader\ImageLoader\obj\Debug\ImageLoader.Form3.resources
